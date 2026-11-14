@@ -13,10 +13,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/anacarolinyfmachado/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/wcarolf)
 [![Location](https://img.shields.io/badge/São_Paulo,_Brazil-0D1117?style=for-the-badge&logo=google-maps&logoColor=00FF41)](#)
 [![Views](https://komarev.com/ghpvc/?username=wcarolf&label=Profile+Views&color=008F11&style=for-the-badge)](https://github.com/wcarolf)
-[![License](https://img.shields.io/badge/License-MIT-008F11?style=for-the-badge)](#contact)
 
 <br/>
 
@@ -55,11 +53,6 @@
 | :--- | :--- | :--- |
 | [**🤖 Autonomous Web Maze Agent**](https://github.com/wcarolf/autonomous-web-maze-agent) | Study implementation of an autonomous AI agent capable of crawling web pages, extracting HTML, and solving an online maze using a **ReAct loop**, **Function Calling**, and **Domain Guardrails**. | `Python` `OpenAI` `BeautifulSoup` |
 
----
-
-<a name="contact"></a>
-### 📞 Contact & License
-Let's talk about AI & Data on [LinkedIn](https://www.linkedin.com/in/anacarolinyfmachado/). 
 
 <br/>
 
