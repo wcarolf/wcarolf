@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Banner estilo Matrix em SVG leve e estável -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:008F11&height=180&section=header&text=Ana%20Caroliny%20Machado&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20%26%20Data%20Engineering%20Enthusiast&descAlignY=62&descSize=17" width="100%" alt="Ana Caroliny Machado" />
-
-<!-- Texto digitando em verde Matrix -->
+<!-- Título principal animado em verde Matrix -->
 <a href="https://github.com/wcarolf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=680&lines=Computer+Networks+Student+%40+Anhanguera;Building+Autonomous+AI+Agents+in+Python;Data+Pipelines%2C+APIs+%26+LLM+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=5000&color=00FF41&center=true&vCenter=true&width=700&lines=Ana+Caroliny+Machado" alt="Ana Caroliny Machado" />
+</a>
+
+<!-- Subtítulo dinâmico com as tuas áreas de foco -->
+<a href="https://github.com/wcarolf">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=AI+Engineering+%26+Data+Engineering+Enthusiast;Computer+Networks+Student+%40+Anhanguera;Building+Autonomous+AI+Agents+in+Python" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,6 +18,7 @@
 [![Views](https://komarev.com/ghpvc/?username=wcarolf&label=Profile+Views&color=008F11&style=for-the-badge)](https://github.com/wcarolf)
 
 *[🇧🇷 Leia a apresentação em Português](#pt-br)*
+
 
 </div>
 
