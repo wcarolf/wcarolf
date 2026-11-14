@@ -2,7 +2,7 @@
 
 <!-- Título principal animado em verde Matrix -->
 <a href="https://github.com/wcarolf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=5000&color=00FF41&center=true&vCenter=true&width=700&lines=Ana+Caroliny+Machado" alt="Ana Caroliny Machado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=5000&color=00FF41&center=true&vCenter=true&width=700&lines=Ana+Caroliny" alt="Ana Caroliny" />
 </a>
 
 <!-- Subtítulo dinâmico com as tuas áreas de foco -->
