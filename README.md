@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner animado SVG estilo Matrix (código verde nas laterais + texto nítido no centro) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:008F11&height=200&section=header&text=Ana%20Caroliny%20Machado&fontSize=42&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=AI%20Engineering%20%26%20Data%20Engineering%20Enthusiast&descAlignY=62&descSize=18" width="100%" alt="Matrix Header Banner" />
+<!-- Banner estilo Matrix em SVG leve e estável -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:008F11&height=180&section=header&text=Ana%20Caroliny%20Machado&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20%26%20Data%20Engineering%20Enthusiast&descAlignY=62&descSize=17" width="100%" alt="Ana Caroliny Machado" />
 
 <!-- Texto digitando em verde Matrix -->
 <a href="https://github.com/wcarolf">
@@ -13,13 +13,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/anacarolinyfmachado/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/wcarolf)
 [![Location](https://img.shields.io/badge/São_Paulo,_Brazil-0D1117?style=for-the-badge&logo=google-maps&logoColor=00FF41)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=wcarolf&label=Profile%20Views&color=008F11&style=for-the-badge)](https://github.com/wcarolf)
+[![Views](https://komarev.com/ghpvc/?username=wcarolf&label=Profile+Views&color=008F11&style=for-the-badge)](https://github.com/wcarolf)
 
 *[🇧🇷 Leia a apresentação em Português](#pt-br)*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
+
+---
 
 ### 🧑‍💻 About Me
 
@@ -59,14 +59,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wcarolf&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcarolf&layout=compact&langs_count=6&theme=matrix&hide_border=true"/>
-  <br/>
-  <img height="165em" src="https://streak-stats.demolab.com?user=wcarolf&theme=matrix&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img height="165" src="https://streak-stats.demolab.com?user=wcarolf&theme=matrix&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -81,7 +74,7 @@
 **Desenvolvendo implementações de estudo práticas em Agentes de IA Autônomos, Pipelines de Dados em Python e Integrações de APIs.**
 
 [![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/anacarolinyfmachado/)
-[![Buscando Estágio](https://img.shields.io/badge/Buscando_Estágio-Engenharia_de_IA_&_Dados-008F11?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.linkedin.com/in/anacarolinyfmachado/)
+[![Buscando Estágio](https://img.shields.io/badge/Buscando_Estágio-Engenharia_de_IA_%26_Dados-008F11?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.linkedin.com/in/anacarolinyfmachado/)
 
 </div>
 
